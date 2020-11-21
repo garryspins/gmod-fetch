@@ -1,4 +1,4 @@
-local safemode = true
+local safemode = false
 
 local ip = GFetch:AddModule("IP Address","ip")
 ip:SetDescription("Server IP Address")
